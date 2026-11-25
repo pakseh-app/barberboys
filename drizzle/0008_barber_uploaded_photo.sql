@@ -1,0 +1,1 @@
+ALTER TABLE barbers ADD COLUMN photo_blob_key TEXT NOT NULL DEFAULT '';

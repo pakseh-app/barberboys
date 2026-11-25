@@ -1,0 +1,1 @@
+ALTER TABLE gallery_items ADD COLUMN is_slide INTEGER NOT NULL DEFAULT 0;
